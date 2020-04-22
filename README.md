@@ -1,4 +1,4 @@
 # SwiftUIMenuBar
 Bare Bones for a MacOS Menu Bar app.
 
-Hands-on leaning project, that can be further developed. ric9rdo 2020.
+Personal hands-on leaning project, that can be further developed. ric9rdo 2020.
